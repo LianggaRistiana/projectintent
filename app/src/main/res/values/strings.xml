@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Project Intent</string>
+    <string name="move_activity_without_data">Move Activity Without Data</string>
+    <string name="welcome_to_this_shit">WELCOME TO THIS SHIT</string>
+    <string name="hello">hello world</string>
+    <string name="data_from_main">data from main</string>
+    <string name="recieved_data">Recieved data</string>
+    <string name="nungguin_uaa">Nungguin uaa</string>
+    <string name="data_with_object">Data with object</string>
+    <string name="buka_telphone">Buka telphone</string>
+    <string name="choose_ur_role">Choose ur Role</string>
+    <string name="jungler">Jungler</string>
+    <string name="midlane">midlane</string>
+    <string name="roamer">roamer</string>
+    <string name="explane">explane</string>
+    <string name="goldlane">goldlane</string>
+    <string name="choose_role">Choose role</string>
+    <string name="your_role">Your role</string>
+    <string name="hero_name">hero name</string>
+    <string name="product_name">Asus Zenbook</string>
+    <string name="processore">Processore</string>
+    <string name="processore_name">INTEL ULTRA 7</string>
+    <string name="type">Type</string>
+    <string name="ram">Screen</string>
+    <string name="mobility">mobility</string>
+    <string name="zen_ai">zen ai</string>
+    <string name="description">The Asus Zenbook 14 OLED is an experience. It\'s a perfect blend of elegance, power, and responsibility. From the sleek design and unparalleled performance to the commitment to sustainability, this laptop redefines what you can expect from a portable computing device. The new Zen with AI is not just a tagline it\'s a promise of a new era in computing.</string>
+    <string name="desc">Step into a new era of sophistication with the Asus Zenbook 14 OLED, a masterpiece that combines sleek design with cutting-edge technology. Embrace the power of AI with the Intel Core Ultra processor Series and Intel Arc graphics, providing you with unmatched efficiency and seamless connectivity. Immerse yourself in the ASUS Lumina OLED touchscreen and revel in the clarity of Super-linear speakers. Experience eco-elegance with the environmentally conscious design that defines the new Zen.</string>
+</resources>

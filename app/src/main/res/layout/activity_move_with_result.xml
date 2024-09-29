@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="24dp"
+    android:orientation="vertical"
+    tools:context=".MoveWithResultActivity">
+
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_ur_role" />
+
+    <RadioGroup
+        android:id="@+id/rg_role"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RadioButton
+            android:id="@+id/rb_jungler"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/jungler" />
+
+        <RadioButton
+            android:id="@+id/rb_midlane"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/midlane" />
+
+        <RadioButton
+            android:id="@+id/rb_roamer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/roamer" />
+
+        <RadioButton
+            android:id="@+id/rb_explane"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/explane" />
+
+        <RadioButton
+            android:id="@+id/rb_goldlane"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/goldlane" />
+
+        <Button
+            android:id="@+id/btn_choose"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/choose_ur_role" />
+
+    </RadioGroup>
+
+</LinearLayout>
